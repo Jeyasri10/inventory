@@ -1,4 +1,5 @@
-flask
+streamlit
 joblib
+scikit-learn
+numpy
 pandas
-scikit-learn  # Include this if it's needed for your model
